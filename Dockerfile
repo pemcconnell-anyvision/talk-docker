@@ -11,5 +11,3 @@ RUN apt update -yq && \
 
 RUN pip3 install numpy dlib face_recognition
 RUN pip3 install opencv-python
-
-RUN sed -i.bak 's/none/read,write/g' /etc/ImageMagick-6/policy.xml
