@@ -1,7 +1,7 @@
-im doing terrible things ...
-============================
+docker-facerecognition demo
+===========================
 
-this is only for some fun
+a throw-away repo used during a docker presentation
 
 run from docker hub
 -------------------
